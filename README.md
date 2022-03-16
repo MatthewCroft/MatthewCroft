@@ -21,12 +21,12 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 3 mins    ███████████████████▓░░░░░   78.56 %
-Markdown     55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-Go           38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-Solidity     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JavaScript   7 hrs 10 mins   █████████████▓░░░░░░░░░░░   54.00 %
+Go           4 hrs 42 mins   █████████░░░░░░░░░░░░░░░░   35.46 %
+Markdown     1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+Solidity     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+YAML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
