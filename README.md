@@ -21,7 +21,7 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   5 hrs           █████████████████████████   100.00 %
+Markdown   5 hrs 1 min     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
