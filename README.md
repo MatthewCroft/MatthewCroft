@@ -21,9 +21,9 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     51 mins         ███████████████████████▒░   93.96 %
-JavaScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Go           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+JavaScript   2 mins          ████████████████████▓░░░░   82.41 %
+Go           0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
