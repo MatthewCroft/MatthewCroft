@@ -21,9 +21,7 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 21 mins    ███████████████████████░░   91.74 %
-HTML         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
