@@ -11,5 +11,4 @@ I am a backend dev who likes to learn new technology.
 
 ## Weekly Coding time
 <!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?&USERNAME&layout=compact&&theme=default&link=https://www.github.com/USERNAME/">
 <!--END_SECTION:waka-->
