@@ -8,3 +8,7 @@ I am a backend dev who likes to learn new technology.
 - JavaScript
 - Go
 - React
+
+## Weekly Coding time
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
