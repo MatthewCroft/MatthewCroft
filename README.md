@@ -5,8 +5,7 @@ I am a backend dev who likes to learn new technology.
 
 ## Technology
 - Java
-- JavaScript
-- Go
+- TypeScript
 - React
 
 ## Weekly Coding time
