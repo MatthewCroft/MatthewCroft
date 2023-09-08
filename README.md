@@ -12,11 +12,11 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform         29 mins         █████████▒░░░░░░░░░░░░░░░   37.50 %
-TypeScript        29 mins         █████████▒░░░░░░░░░░░░░░░   36.79 %
-Java              12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
-Go                6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
-YAML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Java              12 mins         ████████████████▒░░░░░░░░   65.22 %
+Go                5 mins          ███████▓░░░░░░░░░░░░░░░░░   30.10 %
+XML               0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Tera Term macro   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
