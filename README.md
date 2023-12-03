@@ -12,7 +12,8 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```txt
-Java   2 mins          █████████████████████████   100.00 %
+TypeScript   7 mins          █████████████████▓░░░░░░░   70.11 %
+Java         2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.89 %
 ```
 
 <!--END_SECTION:waka-->
