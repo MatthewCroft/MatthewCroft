@@ -12,7 +12,8 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other        2 mins          █████████████▒░░░░░░░░░░░   53.33 %
+TypeScript   1 min           ███████████▓░░░░░░░░░░░░░   46.67 %
 ```
 
 <!--END_SECTION:waka-->
