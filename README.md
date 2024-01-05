@@ -12,8 +12,7 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   9 mins          ███████████████▒░░░░░░░░░   61.93 %
-JSON         5 mins          █████████▓░░░░░░░░░░░░░░░   38.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
