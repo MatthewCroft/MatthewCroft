@@ -12,8 +12,8 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```txt
-Java       3 hrs 56 mins   ████████████████████████░   96.23 %
-Markdown   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Java       5 hrs 13 mins   ████████████████████████▒   97.14 %
+Markdown   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
