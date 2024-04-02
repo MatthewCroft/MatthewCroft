@@ -12,9 +12,8 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```txt
-Erlang           1 hr 12 mins    ████████████████████████▒   97.51 %
-Markdown         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Erlang     1 hr 12 mins    ████████████████████████▒   97.51 %
+Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
