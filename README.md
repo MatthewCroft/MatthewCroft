@@ -12,11 +12,11 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       4 hrs 58 mins   ██████████████████████░░░   88.00 %
-CSS              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-HTTP Request     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-HTML             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-JSON             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+TypeScript       7 hrs 59 mins   ███████████████████████░░   91.89 %
+CSS              11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+HTTP Request     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+HTML             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+JSON             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
