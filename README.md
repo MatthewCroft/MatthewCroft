@@ -12,7 +12,8 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+XML              0 secs          █████████████▓░░░░░░░░░░░   54.44 %
+GitIgnore file   0 secs          ███████████▒░░░░░░░░░░░░░   45.56 %
 ```
 
 <!--END_SECTION:waka-->
