@@ -12,7 +12,10 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             37 mins         ████████████████████▒░░░░   80.98 %
+Other            7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+XML              1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
