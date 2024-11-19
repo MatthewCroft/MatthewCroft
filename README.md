@@ -12,7 +12,8 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP    20 mins         ████████████████████████▒   97.13 %
+JSON   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
