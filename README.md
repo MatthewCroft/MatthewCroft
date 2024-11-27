@@ -12,11 +12,11 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              1 hr 5 mins     ███████████████▓░░░░░░░░░   62.96 %
-Blade Template   17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
-GitIgnore file   12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-Bash             6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-Markdown         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+PHP              1 hr 2 mins     ███████████████▓░░░░░░░░░   63.33 %
+Blade Template   17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
+GitIgnore file   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+Bash             6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
