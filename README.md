@@ -5,8 +5,8 @@ I am a backend dev who likes to learn new technology.
 
 ## Technology
 - Java
-- TypeScript
-- React
+- JavaScript
+- Html
 
 ## Weekly Coding time
 <!--START_SECTION:waka-->
