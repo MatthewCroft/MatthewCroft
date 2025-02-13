@@ -12,11 +12,11 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         1 hr 4 mins     █████████████████░░░░░░░░   67.63 %
-JavaScript       21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
-SQL              7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-XML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Java             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Markdown         1 hr 48 mins    █████████████████░░░░░░░░   68.23 %
+SQL              24 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+JavaScript       21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+XML              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Java             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
