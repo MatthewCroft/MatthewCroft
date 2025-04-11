@@ -12,9 +12,9 @@ I am a backend dev who likes to learn new technology.
 <!--START_SECTION:waka-->
 
 ```txt
-Java         16 hrs 1 min    █████████████▓░░░░░░░░░░░   55.14 %
-HTML         8 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   28.71 %
-JavaScript   4 hrs 41 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
+Java         15 hrs 21 mins  █████████████▓░░░░░░░░░░░   54.81 %
+HTML         7 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   28.43 %
+JavaScript   4 hrs 41 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
